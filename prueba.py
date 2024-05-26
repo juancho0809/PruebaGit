@@ -3,3 +3,5 @@ def fibonacci():
     while True:
         yield a
         a, b = b, a + b
+
+print("dsdsadadsa")
